@@ -1,0 +1,14 @@
+* {
+ margin: 0px;
+ width: 100%;
+}
+body
+{
+ background-size: cover;
+}
+.heading {
+  width: 100%;
+}
+canvas {
+   margin-top: -98px;
+}
